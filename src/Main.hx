@@ -9,7 +9,7 @@ class Main {
             // backgroundColor:'white',
             // exitOnClose: true,
             // fullscreen: false,
-            // notSupportedParams: true,
+            notSupportedParam: true,
             title: 'Window',
         });
 
